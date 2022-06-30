@@ -1,0 +1,6 @@
+/* css 확장자 앞에 module만 붙이면 됨 */
+.Box {
+    background: blue;
+    color: #fff;
+    padding: 20px;
+}
